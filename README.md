@@ -155,7 +155,7 @@ Aplikasi berbasis web untuk mempermudah siswa dalam menyampaikan aspirasi, lapor
 ## ⚙️ Cara Menjalankan Project
 
 1. Clone repository ini
-2. Pindahkan ke folder `htdocs` (XAMPP)
+2. Pindahkan ke folder `htdocs` (XAMPP) atau `www` (Laragon)
 3. Import database ke **phpMyAdmin**
 4. Jalankan:
 
